@@ -7,3 +7,31 @@ $(document).ready(function () {
         }
     });
 });
+
+
+
+
+function changeFunction(){
+    document.body.style.backgroundColor = "black";
+    document.getElementById("pc2").style.color = "white";
+    
+    
+}
+
+function changeFunction1(){
+    document.body.style.backgroundColor = "red";
+    document.getElementById("pc2").style.color = "white";
+    
+    
+}
+
+function changeFunction2(){
+    document.body.style.backgroundColor = "white";
+    document.getElementById("pc2").style.color = "black";
+    
+    
+}
+
+
+
+
